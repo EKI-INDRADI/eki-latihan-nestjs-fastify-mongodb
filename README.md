@@ -406,7 +406,7 @@ stage 10 - migrasi express adapter nestjs to fastify adapter nestjs
 
 stage 11 - migrasi MySql (TypeORM) to Mongodb (Moongose) [DONE]
 
-stage 12 - migrasi express adapter nestjs Mongoose to fastify adapter nestjs Moongose [INPROGRESS]
+stage 12 - migrasi express adapter nestjs Mongoose to fastify adapter nestjs Mongoose [done]
 
 
  
