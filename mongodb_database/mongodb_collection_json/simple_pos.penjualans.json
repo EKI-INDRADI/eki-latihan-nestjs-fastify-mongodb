@@ -1,0 +1,345 @@
+{
+  "_id": {
+    "$oid": "61da92664b16f697571c5e88"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61da92664b16f697571c5e89"
+    }
+  },
+  "bayar": [
+    {
+      "user": {
+        "update_at": {
+          "$date": {
+            "$numberLong": "1641132283278"
+          }
+        },
+        "create_at": {
+          "$date": {
+            "$numberLong": "1641132283278"
+          }
+        },
+        "username": "ekitesting",
+        "email": "ekitesting@mail.com",
+        "nama_user": "eki testing",
+        "id": {
+          "$numberDouble": "2.0220102044328E+14"
+        }
+      },
+      "rekening": {
+        "user": {
+          "update_at": {
+            "$date": {
+              "$numberLong": "1641132283278"
+            }
+          },
+          "create_at": {
+            "$date": {
+              "$numberLong": "1641132283278"
+            }
+          },
+          "username": "ekitesting",
+          "email": "ekitesting@mail.com",
+          "nama_user": "eki testing",
+          "id": {
+            "$numberDouble": "2.0220102044328E+14"
+          }
+        },
+        "update_at": {
+          "$date": {
+            "$numberLong": "1641633996485"
+          }
+        },
+        "create_at": {
+          "$date": {
+            "$numberLong": "1641633996485"
+          }
+        },
+        "type_rekening": "VIRTUAL_ACCOUNT",
+        "keterangan_rekening": "VIRTUAL ACCOUNT BCA",
+        "nama_rekening": "VIRTUAL ACCOUNT BCA",
+        "id": {
+          "$numberDouble": "2.0220108263649E+14"
+        }
+      },
+      "jumlah_bayar": {
+        "$numberInt": "70000"
+      },
+      "tanggal_bayar": {
+        "$date": {
+          "$numberLong": "1641636115144"
+        }
+      },
+      "id": {
+        "$numberDouble": "2.0220108360206E+14"
+      }
+    },
+    {
+      "user": {
+        "update_at": {
+          "$date": {
+            "$numberLong": "1641132283278"
+          }
+        },
+        "create_at": {
+          "$date": {
+            "$numberLong": "1641132283278"
+          }
+        },
+        "username": "ekitesting",
+        "email": "ekitesting@mail.com",
+        "nama_user": "eki testing",
+        "id": {
+          "$numberDouble": "2.0220102044328E+14"
+        }
+      },
+      "rekening": {
+        "user": {
+          "update_at": {
+            "$date": {
+              "$numberLong": "1641132283278"
+            }
+          },
+          "create_at": {
+            "$date": {
+              "$numberLong": "1641132283278"
+            }
+          },
+          "username": "ekitesting",
+          "email": "ekitesting@mail.com",
+          "nama_user": "eki testing",
+          "id": {
+            "$numberDouble": "2.0220102044328E+14"
+          }
+        },
+        "update_at": {
+          "$date": {
+            "$numberLong": "1641634183879"
+          }
+        },
+        "create_at": {
+          "$date": {
+            "$numberLong": "1641634183879"
+          }
+        },
+        "type_rekening": "EWALLET",
+        "keterangan_rekening": "OVO",
+        "nama_rekening": "OVO",
+        "id": {
+          "$numberDouble": "2.0220108294388E+14"
+        }
+      },
+      "jumlah_bayar": {
+        "$numberInt": "50000"
+      },
+      "tanggal_bayar": {
+        "$date": {
+          "$numberLong": "1641636115144"
+        }
+      },
+      "id": {
+        "$numberDouble": "2.0220109271336E+14"
+      }
+    }
+  ],
+  "item": [
+    {
+      "user": {
+        "update_at": {
+          "$date": {
+            "$numberLong": "1641132283278"
+          }
+        },
+        "create_at": {
+          "$date": {
+            "$numberLong": "1641132283278"
+          }
+        },
+        "username": "ekitesting",
+        "email": "ekitesting@mail.com",
+        "nama_user": "eki testing",
+        "id": {
+          "$numberDouble": "2.0220102044328E+14"
+        }
+      },
+      "produk": {
+        "user": {
+          "update_at": {
+            "$date": {
+              "$numberLong": "1641132283278"
+            }
+          },
+          "create_at": {
+            "$date": {
+              "$numberLong": "1641132283278"
+            }
+          },
+          "username": "ekitesting",
+          "email": "ekitesting@mail.com",
+          "nama_user": "eki testing",
+          "id": {
+            "$numberDouble": "2.0220102044328E+14"
+          }
+        },
+        "update_at": {
+          "$date": {
+            "$numberLong": "1641132714140"
+          }
+        },
+        "create_at": {
+          "$date": {
+            "$numberLong": "1641132714140"
+          }
+        },
+        "foto": "PD20220102-USR202201020443278-1641132714125.png",
+        "harga_jual": {
+          "$numberInt": "2000"
+        },
+        "harga_beli": {
+          "$numberInt": "1500"
+        },
+        "deskripsi_produk": "TESTING-001-DESC",
+        "nama_produk": "TESTING-001-PRODUK",
+        "barcode": "TESTING-001",
+        "id": {
+          "$numberDouble": "2.0220102115414E+14"
+        }
+      },
+      "potongan": {
+        "$numberInt": "5000"
+      },
+      "harga_jual": {
+        "$numberInt": "15000"
+      },
+      "jumlah_jual": {
+        "$numberInt": "1"
+      },
+      "id": {
+        "$numberDouble": "2.0220108504461E+14"
+      }
+    },
+    {
+      "user": {
+        "update_at": {
+          "$date": {
+            "$numberLong": "1641132283278"
+          }
+        },
+        "create_at": {
+          "$date": {
+            "$numberLong": "1641132283278"
+          }
+        },
+        "username": "ekitesting",
+        "email": "ekitesting@mail.com",
+        "nama_user": "eki testing",
+        "id": {
+          "$numberDouble": "2.0220102044328E+14"
+        }
+      },
+      "produk": {
+        "user": {
+          "update_at": {
+            "$date": {
+              "$numberLong": "1641132283278"
+            }
+          },
+          "create_at": {
+            "$date": {
+              "$numberLong": "1641132283278"
+            }
+          },
+          "username": "ekitesting",
+          "email": "ekitesting@mail.com",
+          "nama_user": "eki testing",
+          "id": {
+            "$numberDouble": "2.0220102044328E+14"
+          }
+        },
+        "update_at": {
+          "$date": {
+            "$numberLong": "1641132714140"
+          }
+        },
+        "create_at": {
+          "$date": {
+            "$numberLong": "1641132714140"
+          }
+        },
+        "foto": "PD20220102-USR202201020443278-1641132714125.png",
+        "harga_jual": {
+          "$numberInt": "2000"
+        },
+        "harga_beli": {
+          "$numberInt": "1500"
+        },
+        "deskripsi_produk": "TESTING-001-DESC",
+        "nama_produk": "TESTING-001-PRODUK",
+        "barcode": "TESTING-001",
+        "id": {
+          "$numberDouble": "2.0220102115414E+14"
+        }
+      },
+      "potongan": {
+        "$numberInt": "5000"
+      },
+      "harga_jual": {
+        "$numberInt": "15000"
+      },
+      "jumlah_jual": {
+        "$numberInt": "1"
+      },
+      "id": {
+        "$numberDouble": "2.0220108065994E+14"
+      }
+    }
+  ],
+  "total_bayar": {
+    "$numberInt": "120000"
+  },
+  "total_potongan": {
+    "$numberInt": "10000"
+  },
+  "total_transaksi": {
+    "$numberInt": "30000"
+  },
+  "tanggal": {
+    "$date": {
+      "$numberLong": "1641710165580"
+    }
+  },
+  "no_faktur": "EKITESTING-PENJUALAN-001",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641714278955"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641714278955"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220109443896E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}

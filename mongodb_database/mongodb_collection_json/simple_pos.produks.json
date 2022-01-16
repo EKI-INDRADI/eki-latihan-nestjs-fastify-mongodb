@@ -1,0 +1,557 @@
+{
+  "_id": {
+    "$oid": "61cd8183672472572afc092b"
+  },
+  "user": {
+    "id": {
+      "$numberDouble": "2.0211229505904E+14"
+    },
+    "_id": {
+      "$oid": "61cd8183672472572afc092c"
+    },
+    "update_at": {
+      "$date": {
+        "$numberLong": "1640857987748"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1640857987748"
+      }
+    }
+  },
+  "foto": "PD20211230-USR202112295059040-1640857987729.png",
+  "harga_jual": {
+    "$numberInt": "1500"
+  },
+  "harga_beli": {
+    "$numberInt": "1000"
+  },
+  "deskripsi_produk": "data-001",
+  "nama_produk": "data-001",
+  "barcode": "data-001",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1640857987748"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1640857987748"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0211230530775E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61cd830520d0724c88feca7f"
+  },
+  "user": {
+    "nama_user": "stringst",
+    "id": {
+      "$numberDouble": "2.0211229505904E+14"
+    },
+    "_id": {
+      "$oid": "61cd830520d0724c88feca80"
+    },
+    "update_at": {
+      "$date": {
+        "$numberLong": "1640858373529"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1640858373529"
+      }
+    }
+  },
+  "foto": "PD20211230-USR202112295059040-1640858373500.png",
+  "harga_jual": {
+    "$numberInt": "750"
+  },
+  "harga_beli": {
+    "$numberInt": "500"
+  },
+  "deskripsi_produk": "data-002",
+  "nama_produk": "data-002",
+  "barcode": "data-002",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1640858373529"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1640858373529"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0211230593353E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61cd87dbbe1ab8c5ede8763b"
+  },
+  "user": {
+    "nama_user": "stringst",
+    "id": {
+      "$numberDouble": "2.0211229505904E+14"
+    },
+    "_id": {
+      "$oid": "61cd87dbbe1ab8c5ede8763c"
+    },
+    "update_at": {
+      "$date": {
+        "$numberLong": "1640859611369"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1640859611369"
+      }
+    }
+  },
+  "foto": "PD20211230-USR202112295059040.png",
+  "harga_jual": {
+    "$numberInt": "1500"
+  },
+  "harga_beli": {
+    "$numberInt": "1000"
+  },
+  "deskripsi_produk": "data-003",
+  "nama_produk": "data-003",
+  "barcode": "data-003",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1640859611370"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1640859611370"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0211230201137E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61d1b2aaba5009d6e2cfbcec"
+  },
+  "user": {
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d1b2aaba5009d6e2cfbced"
+    },
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132714139"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132714139"
+      }
+    }
+  },
+  "foto": "PD20220102-USR202201020443278-1641132714125.png",
+  "harga_jual": {
+    "$numberInt": "2000"
+  },
+  "harga_beli": {
+    "$numberInt": "1500"
+  },
+  "deskripsi_produk": "TESTING-001-DESC",
+  "nama_produk": "TESTING-001-PRODUK",
+  "barcode": "TESTING-001",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641132714140"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641132714140"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220102115414E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61d1b2eeba5009d6e2cfbcf4"
+  },
+  "user": {
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d1b2eeba5009d6e2cfbcf5"
+    },
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132782965"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132782965"
+      }
+    }
+  },
+  "foto": "PD20220102-USR202201020443278-1641132782953.png",
+  "harga_jual": {
+    "$numberInt": "2000"
+  },
+  "harga_beli": {
+    "$numberInt": "1500"
+  },
+  "deskripsi_produk": "TESTING-002-DESC",
+  "nama_produk": "TESTING-002-PRODUK",
+  "barcode": "TESTING-002",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641132782965"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641132782965"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220102130297E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61d6497cc9035b76016f002d"
+  },
+  "user": {
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d6497cc9035b76016f002e"
+    },
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641433468634"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641433468634"
+      }
+    }
+  },
+  "foto": "PD20220106-USR202201020443278-1641433468604.png",
+  "harga_jual": {
+    "$numberInt": "1000"
+  },
+  "harga_beli": {
+    "$numberInt": "5000"
+  },
+  "deskripsi_produk": "test009",
+  "nama_produk": "test009",
+  "barcode": "test009",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641433468635"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641433468635"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220106442864E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61d64997c9035b76016f0035"
+  },
+  "user": {
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d64997c9035b76016f0036"
+    },
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641433495220"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641433495220"
+      }
+    }
+  },
+  "foto": "PD20220106-USR202201020443278-1641433495204.png",
+  "harga_jual": {
+    "$numberInt": "1000"
+  },
+  "harga_beli": {
+    "$numberInt": "5000"
+  },
+  "deskripsi_produk": "test010",
+  "nama_produk": "test010",
+  "barcode": "test010",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641433495220"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641433495220"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220106445522E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61d64aff4085395ff050cd89"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d1b0fbad9c2844b49c77ea"
+    }
+  },
+  "foto": "PD20220106-USR202201020443278-1641433855287.png",
+  "harga_jual": {
+    "$numberInt": "1000"
+  },
+  "harga_beli": {
+    "$numberInt": "5000"
+  },
+  "deskripsi_produk": "test011",
+  "nama_produk": "test011",
+  "barcode": "test011",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641433855323"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641433855323"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220106505532E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61d64b47909cee6ce27203d0"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d1b0fbad9c2844b49c77ea"
+    }
+  },
+  "foto": "PD20220106-USR202201020443278-1641433927535.png",
+  "harga_jual": {
+    "$numberInt": "1000"
+  },
+  "harga_beli": {
+    "$numberInt": "5000"
+  },
+  "deskripsi_produk": "test012",
+  "nama_produk": "test012",
+  "barcode": "test012",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641433927574"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641433927574"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220106520757E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61d650385e72fb436bae1ac3"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d1b0fbad9c2844b49c77ea"
+    }
+  },
+  "foto": "PD20220106-USR202201020443278-1641435192189.png",
+  "harga_jual": {
+    "$numberInt": "500"
+  },
+  "harga_beli": {
+    "$numberInt": "1000"
+  },
+  "deskripsi_produk": "test123",
+  "nama_produk": "test123",
+  "barcode": "test123",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641435192219"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641435192219"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220106131222E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61d92bba19b7024f4777bf92"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d1b0fbad9c2844b49c77ea"
+    }
+  },
+  "foto": "PD20220108-USR202201020443278-1641622458266.png",
+  "harga_jual": {
+    "$numberInt": "500"
+  },
+  "harga_beli": {
+    "$numberInt": "1500"
+  },
+  "deskripsi_produk": "test0012312",
+  "nama_produk": "test0012312",
+  "barcode": "test0012312",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641622458292"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641622458292"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220108141829E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}

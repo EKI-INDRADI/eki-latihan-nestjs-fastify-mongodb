@@ -1,0 +1,630 @@
+{
+  "_id": {
+    "$oid": "61d958cc5ac0395ff567cdd0"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d958cc5ac0395ff567cdd1"
+    }
+  },
+  "type_rekening": "VIRTUAL_ACCOUNT",
+  "keterangan_rekening": "VIRTUAL ACCOUNT BCA",
+  "nama_rekening": "VIRTUAL ACCOUNT BCA",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641633996485"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641633996485"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220108263649E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61d958e65ac0395ff567cdd4"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d958e65ac0395ff567cdd5"
+    }
+  },
+  "type_rekening": "VIRTUAL_ACCOUNT",
+  "keterangan_rekening": "VIRTUAL ACCOUNT BRI",
+  "nama_rekening": "VIRTUAL ACCOUNT BRI",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641634022880"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641634022880"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220108270288E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61d958f35ac0395ff567cdd8"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d958f35ac0395ff567cdd9"
+    }
+  },
+  "type_rekening": "VIRTUAL_ACCOUNT",
+  "keterangan_rekening": "VIRTUAL ACCOUNT BNI",
+  "nama_rekening": "VIRTUAL ACCOUNT BNI",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641634035372"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641634035372"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220108271537E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61d9590a5ac0395ff567cddc"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d9590a5ac0395ff567cddd"
+    }
+  },
+  "type_rekening": "VIRTUAL_ACCOUNT",
+  "keterangan_rekening": "VIRTUAL ACCOUNT MANDIRI",
+  "nama_rekening": "VIRTUAL ACCOUNT MANDIRI",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641634058811"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641634058811"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220108273881E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61d959875ac0395ff567cde3"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d959875ac0395ff567cde4"
+    }
+  },
+  "type_rekening": "EWALLET",
+  "keterangan_rekening": "OVO",
+  "nama_rekening": "OVO",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641634183879"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641634183879"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220108294388E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61d959945ac0395ff567cde7"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d959945ac0395ff567cde8"
+    }
+  },
+  "type_rekening": "EWALLET",
+  "keterangan_rekening": "DANA",
+  "nama_rekening": "DANA",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641634196917"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641634196917"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220108295692E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61d959a15ac0395ff567cdeb"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d959a15ac0395ff567cdec"
+    }
+  },
+  "type_rekening": "EWALLET",
+  "keterangan_rekening": "SHOPEE PAY",
+  "nama_rekening": "SHOPEE PAY",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641634209972"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641634209972"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220108300997E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61d959af5ac0395ff567cdef"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d959af5ac0395ff567cdf0"
+    }
+  },
+  "type_rekening": "EWALLET",
+  "keterangan_rekening": "GO PAY",
+  "nama_rekening": "GO PAY",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641634223666"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641634223666"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220108302367E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61d959c25ac0395ff567cdf3"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d959c25ac0395ff567cdf4"
+    }
+  },
+  "type_rekening": "EWALLET",
+  "keterangan_rekening": "DOKU",
+  "nama_rekening": "DOKU",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641634242222"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641634242222"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220108304222E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61d959de5ac0395ff567cdf7"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d959de5ac0395ff567cdf8"
+    }
+  },
+  "type_rekening": "BANK",
+  "keterangan_rekening": "PERMATA",
+  "nama_rekening": "PERMATA",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641634270593"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641634270593"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220108311059E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61d959e45ac0395ff567cdfb"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d959e45ac0395ff567cdfc"
+    }
+  },
+  "type_rekening": "BANK",
+  "keterangan_rekening": "BCA",
+  "nama_rekening": "BCA",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641634276501"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641634276501"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220108311650E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61d959e95ac0395ff567cdff"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d959e95ac0395ff567ce00"
+    }
+  },
+  "type_rekening": "BANK",
+  "keterangan_rekening": "MANDIRI",
+  "nama_rekening": "MANDIRI",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641634281676"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641634281676"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220108312168E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61d95a165ac0395ff567ce03"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d95a165ac0395ff567ce04"
+    }
+  },
+  "type_rekening": "BANK",
+  "keterangan_rekening": "BRI",
+  "nama_rekening": "BRI",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641634326679"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641634326679"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220108320668E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61d95a1c5ac0395ff567ce07"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d95a1c5ac0395ff567ce08"
+    }
+  },
+  "type_rekening": "BANK",
+  "keterangan_rekening": "BNI",
+  "nama_rekening": "BNI",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641634332319"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641634332319"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220108321232E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}

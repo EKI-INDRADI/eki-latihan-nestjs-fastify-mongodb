@@ -1,0 +1,24 @@
+{
+    "jumlah_jual": 1,
+    "harga_jual": 15000,
+    "potongan": 5000,
+    "produk": {
+        "user": {
+            "username": "ekitesting",
+            "email": "ekitesting@mail.com",
+            "nama_user": "eki testing",
+            "update_at": "2022-01-02T21:04:43.278+07:00",
+            "create_at": "2022-01-02T21:04:43.278+07:00",
+            "id": 202201020443278
+        },
+        "foto": "PD20220102-USR202201020443278-1641132714125.png",
+        "harga_jual": 2000,
+        "harga_beli": 1500,
+        "deskripsi_produk": "TESTING-001-DESC",
+        "nama_produk": "TESTING-001-PRODUK",
+        "barcode": "TESTING-001",
+        "update_at": "2022-01-02T21:11:54.140+07:00",
+        "create_at": "2022-01-02T21:11:54.140+07:00",
+        "id": 202201021154140
+    }
+}

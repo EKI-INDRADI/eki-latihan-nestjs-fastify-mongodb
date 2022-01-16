@@ -1,0 +1,46 @@
+{
+  "_id": {
+    "$oid": "61da8573f9ac55eccafb70bf"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61da8573f9ac55eccafb70c0"
+    }
+  },
+  "no_hp_konsumen": "+628000000001",
+  "email_konsumen": "konsumen.ekitesting@mail.com",
+  "alamat_konsumen": "jl. konsumen ekitesting",
+  "nama_konsumen": "konsumen-ekitesting",
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641710963617"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641710963617"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220109492362E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}

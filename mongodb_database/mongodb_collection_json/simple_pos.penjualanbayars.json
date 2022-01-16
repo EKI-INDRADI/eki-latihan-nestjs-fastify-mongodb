@@ -1,0 +1,184 @@
+{
+  "_id": {
+    "$oid": "61d9691235911d4d1121f937"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d9691235911d4d1121f938"
+    }
+  },
+  "rekening": {
+    "user": {
+      "update_at": {
+        "$date": {
+          "$numberLong": "1641132283278"
+        }
+      },
+      "create_at": {
+        "$date": {
+          "$numberLong": "1641132283278"
+        }
+      },
+      "username": "ekitesting",
+      "email": "ekitesting@mail.com",
+      "nama_user": "eki testing",
+      "id": {
+        "$numberDouble": "2.0220102044328E+14"
+      },
+      "_id": {
+        "$oid": "61d9691235911d4d1121f93a"
+      }
+    },
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641633996485"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641633996485"
+      }
+    },
+    "type_rekening": "VIRTUAL_ACCOUNT",
+    "keterangan_rekening": "VIRTUAL ACCOUNT BCA",
+    "nama_rekening": "VIRTUAL ACCOUNT BCA",
+    "id": {
+      "$numberDouble": "2.0220108263649E+14"
+    },
+    "_id": {
+      "$oid": "61d9691235911d4d1121f939"
+    }
+  },
+  "jumlah_bayar": {
+    "$numberInt": "70000"
+  },
+  "tanggal_bayar": {
+    "$date": {
+      "$numberLong": "1641636115144"
+    }
+  },
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641638162057"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641638162057"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220108360206E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61da8e51f9f89caa4b760593"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61da8e51f9f89caa4b760594"
+    }
+  },
+  "rekening": {
+    "user": {
+      "update_at": {
+        "$date": {
+          "$numberLong": "1641132283278"
+        }
+      },
+      "create_at": {
+        "$date": {
+          "$numberLong": "1641132283278"
+        }
+      },
+      "username": "ekitesting",
+      "email": "ekitesting@mail.com",
+      "nama_user": "eki testing",
+      "id": {
+        "$numberDouble": "2.0220102044328E+14"
+      },
+      "_id": {
+        "$oid": "61da8e51f9f89caa4b760596"
+      }
+    },
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641634183879"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641634183879"
+      }
+    },
+    "type_rekening": "EWALLET",
+    "keterangan_rekening": "OVO",
+    "nama_rekening": "OVO",
+    "id": {
+      "$numberDouble": "2.0220108294388E+14"
+    },
+    "_id": {
+      "$oid": "61da8e51f9f89caa4b760595"
+    }
+  },
+  "jumlah_bayar": {
+    "$numberInt": "50000"
+  },
+  "tanggal_bayar": {
+    "$date": {
+      "$numberLong": "1641636115144"
+    }
+  },
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641713233355"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641713233355"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220109271336E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}

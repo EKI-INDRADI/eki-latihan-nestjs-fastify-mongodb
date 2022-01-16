@@ -1,0 +1,157 @@
+{
+    "no_faktur": "EKITESTING-PENJUALAN-001",
+    "tanggal": "2022-01-09T06:36:05.580Z",
+    "konsumen": {
+        "id": 202201094923618,
+        "nama_konsumen": "konsumen-ekitesting",
+        "alamat_konsumen": "jl. ekitesting",
+        "email_konsumen": "konsumen.ekitesting@mail.com",
+        "no_hp_konsumen": "+628000000001",
+        "user": {
+            "id": 202201020443278,
+            "nama_user": "eki testing",
+            "email": "ekitesting@mail.com",
+            "username": "ekitesting",
+            "create_at": "2022-01-02T21:04:43.278+07:00",
+            "update_at": "2022-01-02T21:04:43.278+07:00"
+        },
+        "create_at": "2022-01-02T21:04:43.278+07:00",
+        "update_at": "2022-01-02T21:04:43.278+07:00"
+    },
+    "item": [
+        {
+            "user": {
+                "update_at": "2022-01-02T21:04:43.278+07:00",
+                "create_at": "2022-01-02T21:04:43.278+07:00",
+                "username": "ekitesting",
+                "email": "ekitesting@mail.com",
+                "nama_user": "eki testing",
+                "id": 202201020443278
+            },
+            "produk": {
+                "user": {
+                    "update_at": "2022-01-02T21:04:43.278+07:00",
+                    "create_at": "2022-01-02T21:04:43.278+07:00",
+                    "username": "ekitesting",
+                    "email": "ekitesting@mail.com",
+                    "nama_user": "eki testing",
+                    "id": 202201020443278
+                },
+                "update_at": "2022-01-02T21:11:54.140+07:00",
+                "create_at": "2022-01-02T21:11:54.140+07:00",
+                "foto": "PD20220102-USR202201020443278-1641132714125.png",
+                "harga_jual": 2000,
+                "harga_beli": 1500,
+                "deskripsi_produk": "TESTING-001-DESC",
+                "nama_produk": "TESTING-001-PRODUK",
+                "barcode": "TESTING-001",
+                "id": 202201021154140
+            },
+            "potongan": 5000,
+            "harga_jual": 15000,
+            "jumlah_jual": 1,
+            "update_at": "2022-01-08T13:50:44.612+07:00",
+            "create_at": "2022-01-08T13:50:44.612+07:00",
+            "id": 202201085044612
+        },
+        {
+            "user": {
+                "update_at": "2022-01-02T21:04:43.278+07:00",
+                "create_at": "2022-01-02T21:04:43.278+07:00",
+                "username": "ekitesting",
+                "email": "ekitesting@mail.com",
+                "nama_user": "eki testing",
+                "id": 202201020443278
+            },
+            "produk": {
+                "user": {
+                    "update_at": "2022-01-02T21:04:43.278+07:00",
+                    "create_at": "2022-01-02T21:04:43.278+07:00",
+                    "username": "ekitesting",
+                    "email": "ekitesting@mail.com",
+                    "nama_user": "eki testing",
+                    "id": 202201020443278
+                },
+                "update_at": "2022-01-02T21:11:54.140+07:00",
+                "create_at": "2022-01-02T21:11:54.140+07:00",
+                "foto": "PD20220102-USR202201020443278-1641132714125.png",
+                "harga_jual": 2000,
+                "harga_beli": 1500,
+                "deskripsi_produk": "TESTING-001-DESC",
+                "nama_produk": "TESTING-001-PRODUK",
+                "barcode": "TESTING-001",
+                "id": 202201021154140
+            },
+            "potongan": 5000,
+            "harga_jual": 15000,
+            "jumlah_jual": 1,
+            "update_at": "2022-01-08T16:06:59.944+07:00",
+            "create_at": "2022-01-08T16:06:59.944+07:00",
+            "id": 202201080659944
+        }
+    ],
+    "bayar": [
+        {
+            "user": {
+                "update_at": "2022-01-02T21:04:43.278+07:00",
+                "create_at": "2022-01-02T21:04:43.278+07:00",
+                "username": "ekitesting",
+                "email": "ekitesting@mail.com",
+                "nama_user": "eki testing",
+                "id": 202201020443278
+            },
+            "rekening": {
+                "user": {
+                    "update_at": "2022-01-02T21:04:43.278+07:00",
+                    "create_at": "2022-01-02T21:04:43.278+07:00",
+                    "username": "ekitesting",
+                    "email": "ekitesting@mail.com",
+                    "nama_user": "eki testing",
+                    "id": 202201020443278
+                },
+                "update_at": "2022-01-08T16:26:36.485+07:00",
+                "create_at": "2022-01-08T16:26:36.485+07:00",
+                "type_rekening": "VIRTUAL_ACCOUNT",
+                "keterangan_rekening": "VIRTUAL ACCOUNT BCA",
+                "nama_rekening": "VIRTUAL ACCOUNT BCA",
+                "id": 202201082636485
+            },
+            "jumlah_bayar": 70000,
+            "tanggal_bayar": "2022-01-08T17:01:55.144+07:00",
+            "update_at": "2022-01-08T17:36:02.057+07:00",
+            "create_at": "2022-01-08T17:36:02.057+07:00",
+            "id": 202201083602057
+        },
+        {
+            "user": {
+                "update_at": "2022-01-02T21:04:43.278+07:00",
+                "create_at": "2022-01-02T21:04:43.278+07:00",
+                "username": "ekitesting",
+                "email": "ekitesting@mail.com",
+                "nama_user": "eki testing",
+                "id": 202201020443278
+            },
+            "rekening": {
+                "user": {
+                    "update_at": "2022-01-02T21:04:43.278+07:00",
+                    "create_at": "2022-01-02T21:04:43.278+07:00",
+                    "username": "ekitesting",
+                    "email": "ekitesting@mail.com",
+                    "nama_user": "eki testing",
+                    "id": 202201020443278
+                },
+                "update_at": "2022-01-08T16:29:43.879+07:00",
+                "create_at": "2022-01-08T16:29:43.879+07:00",
+                "type_rekening": "EWALLET",
+                "keterangan_rekening": "OVO",
+                "nama_rekening": "OVO",
+                "id": 202201082943879
+            },
+            "jumlah_bayar": 50000,
+            "tanggal_bayar": "2022-01-08T17:01:55.144+07:00",
+            "update_at": "2022-01-09T14:27:13.355+07:00",
+            "create_at": "2022-01-09T14:27:13.355+07:00",
+            "id": 202201092713355
+        }
+    ]
+}

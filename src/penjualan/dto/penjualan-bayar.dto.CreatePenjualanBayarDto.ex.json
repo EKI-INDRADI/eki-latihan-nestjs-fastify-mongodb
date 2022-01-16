@@ -1,0 +1,20 @@
+{
+    "tanggal_bayar": "2022-01-08T10:01:55.144Z",
+    "jumlah_bayar": 70000,
+    "rekening": {
+        "user": {
+            "update_at": "2022-01-02T21:04:43.278+07:00",
+            "create_at": "2022-01-02T21:04:43.278+07:00",
+            "username": "ekitesting",
+            "email": "ekitesting@mail.com",
+            "nama_user": "eki testing",
+            "id": 202201020443278
+        },
+        "type_rekening": "VIRTUAL_ACCOUNT",
+        "keterangan_rekening": "VIRTUAL ACCOUNT BCA",
+        "nama_rekening": "VIRTUAL ACCOUNT BCA",
+        "update_at": "2022-01-08T16:26:36.485+07:00",
+        "create_at": "2022-01-08T16:26:36.485+07:00",
+        "id": 202201082636485
+    }
+}

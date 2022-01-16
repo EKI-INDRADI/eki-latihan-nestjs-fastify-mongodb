@@ -1,0 +1,393 @@
+{
+  "_id": {
+    "$oid": "61d93444c55922ab136265c3"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    }
+  },
+  "produk": {
+    "user": {
+      "update_at": {
+        "$date": {
+          "$numberLong": "1641132283278"
+        }
+      },
+      "create_at": {
+        "$date": {
+          "$numberLong": "1641132283278"
+        }
+      },
+      "username": "ekitesting",
+      "email": "ekitesting@mail.com",
+      "nama_user": "eki testing",
+      "id": {
+        "$numberDouble": "2.0220102044328E+14"
+      }
+    },
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132714140"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132714140"
+      }
+    },
+    "foto": "PD20220102-USR202201020443278-1641132714125.png",
+    "harga_jual": {
+      "$numberInt": "2000"
+    },
+    "harga_beli": {
+      "$numberInt": "1500"
+    },
+    "deskripsi_produk": "TESTING-001-DESC",
+    "nama_produk": "TESTING-001-PRODUK",
+    "barcode": "TESTING-001",
+    "id": {
+      "$numberDouble": "2.0220102115414E+14"
+    },
+    "_id": {
+      "$oid": "61d93444c55922ab136265c4"
+    }
+  },
+  "potongan": {
+    "$numberInt": "5000"
+  },
+  "harga_jual": {
+    "$numberInt": "15000"
+  },
+  "jumlah_jual": {
+    "$numberInt": "1"
+  },
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641624644612"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641624644612"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220108504461E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61d9367887e68896fea00d02"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d9367887e68896fea00d03"
+    }
+  },
+  "produk": {
+    "user": {
+      "update_at": {
+        "$date": {
+          "$numberLong": "1641132283278"
+        }
+      },
+      "create_at": {
+        "$date": {
+          "$numberLong": "1641132283278"
+        }
+      },
+      "username": "ekitesting",
+      "email": "ekitesting@mail.com",
+      "nama_user": "eki testing",
+      "id": {
+        "$numberDouble": "2.0220102044328E+14"
+      },
+      "_id": {
+        "$oid": "61d9367887e68896fea00d05"
+      }
+    },
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132714140"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132714140"
+      }
+    },
+    "foto": "PD20220102-USR202201020443278-1641132714125.png",
+    "harga_jual": {
+      "$numberInt": "2000"
+    },
+    "harga_beli": {
+      "$numberInt": "1500"
+    },
+    "deskripsi_produk": "TESTING-001-DESC",
+    "nama_produk": "TESTING-001-PRODUK",
+    "barcode": "TESTING-001",
+    "id": {
+      "$numberDouble": "2.0220102115414E+14"
+    },
+    "_id": {
+      "$oid": "61d9367887e68896fea00d04"
+    }
+  },
+  "potongan": {
+    "$numberInt": "5000"
+  },
+  "harga_jual": {
+    "$numberInt": "15000"
+  },
+  "jumlah_jual": {
+    "$numberInt": "1"
+  },
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641625208752"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641625208752"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220108000875E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61d9371c5d5f37ba7775477e"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d9371c5d5f37ba7775477f"
+    }
+  },
+  "produk": {
+    "user": {
+      "update_at": {
+        "$date": {
+          "$numberLong": "1641132283278"
+        }
+      },
+      "create_at": {
+        "$date": {
+          "$numberLong": "1641132283278"
+        }
+      },
+      "username": "ekitesting",
+      "nama_user": "eki testing",
+      "id": {
+        "$numberDouble": "2.0220102044328E+14"
+      },
+      "_id": {
+        "$oid": "61d9371c5d5f37ba77754781"
+      }
+    },
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132714140"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132714140"
+      }
+    },
+    "foto": "PD20220102-USR202201020443278-1641132714125.png",
+    "harga_jual": {
+      "$numberInt": "2000"
+    },
+    "harga_beli": {
+      "$numberInt": "1500"
+    },
+    "deskripsi_produk": "TESTING-001-DESC",
+    "nama_produk": "TESTING-001-PRODUK",
+    "barcode": "TESTING-001",
+    "id": {
+      "$numberDouble": "2.0220102115414E+14"
+    },
+    "_id": {
+      "$oid": "61d9371c5d5f37ba77754780"
+    }
+  },
+  "potongan": {
+    "$numberInt": "5000"
+  },
+  "harga_jual": {
+    "$numberInt": "15000"
+  },
+  "jumlah_jual": {
+    "$numberInt": "1"
+  },
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641625372223"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641625372223"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220108025222E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
+{
+  "_id": {
+    "$oid": "61d95433fe04f12ef9efde1d"
+  },
+  "user": {
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132283278"
+      }
+    },
+    "username": "ekitesting",
+    "email": "ekitesting@mail.com",
+    "nama_user": "eki testing",
+    "id": {
+      "$numberDouble": "2.0220102044328E+14"
+    },
+    "_id": {
+      "$oid": "61d95433fe04f12ef9efde1e"
+    }
+  },
+  "produk": {
+    "user": {
+      "update_at": {
+        "$date": {
+          "$numberLong": "1641132283278"
+        }
+      },
+      "create_at": {
+        "$date": {
+          "$numberLong": "1641132283278"
+        }
+      },
+      "username": "ekitesting",
+      "email": "ekitesting@mail.com",
+      "nama_user": "eki testing",
+      "id": {
+        "$numberDouble": "2.0220102044328E+14"
+      },
+      "_id": {
+        "$oid": "61d95433fe04f12ef9efde20"
+      }
+    },
+    "update_at": {
+      "$date": {
+        "$numberLong": "1641132714140"
+      }
+    },
+    "create_at": {
+      "$date": {
+        "$numberLong": "1641132714140"
+      }
+    },
+    "foto": "PD20220102-USR202201020443278-1641132714125.png",
+    "harga_jual": {
+      "$numberInt": "2000"
+    },
+    "harga_beli": {
+      "$numberInt": "1500"
+    },
+    "deskripsi_produk": "TESTING-001-DESC",
+    "nama_produk": "TESTING-001-PRODUK",
+    "barcode": "TESTING-001",
+    "id": {
+      "$numberDouble": "2.0220102115414E+14"
+    },
+    "_id": {
+      "$oid": "61d95433fe04f12ef9efde1f"
+    }
+  },
+  "potongan": {
+    "$numberInt": "5000"
+  },
+  "harga_jual": {
+    "$numberInt": "15000"
+  },
+  "jumlah_jual": {
+    "$numberInt": "1"
+  },
+  "update_at": {
+    "$date": {
+      "$numberLong": "1641632819944"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1641632819944"
+    }
+  },
+  "id": {
+    "$numberDouble": "2.0220108065994E+14"
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+}
