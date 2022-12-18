@@ -9,7 +9,8 @@ async function bootstrap() {
 
   const app = await NestFactory.create<NestFastifyApplication>( // FASTIFY
     AppModule,
-    new FastifyAdapter()
+    new FastifyAdapter(),
+    { cors: true } // ENABLE CORS
   );
 
   useContainer(app.select(AppModule), { fallbackOnErrors: true });

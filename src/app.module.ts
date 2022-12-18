@@ -22,8 +22,8 @@ import { Rekening, RekeningSchema } from './rekening/entities/rekening.entity';
 @Module({
   imports: [
     ConfigModule.forRoot(),
-    MongooseModule.forRoot('mongodb://root:masuk123@127.0.0.1:7000/simple_pos?authSource=admin'),
-    // MongooseModule.forRoot(`mongodb://${process.env.MONGODB_USER}:${process.env.MONGODB_PASSWORD}@${process.env.MONGODB_HOST}:${process.env.MONGODB_PORT}/${process.env.MONGODB_DATABASE}`),
+    //MongooseModule.forRoot('mongodb://root:masuk123@127.0.0.1:7000/simple_pos?authSource=admin'),
+    MongooseModule.forRoot(`mongodb://${process.env.MONGODB_USER}:${process.env.MONGODB_PASSWORD}@${process.env.MONGODB_HOST}:${process.env.MONGODB_PORT}/${process.env.MONGODB_DATABASE}?authSource=admin`), // USING ENV (ADMIN ACOUNT)
     MongooseModule.forFeature([
       // { name: 'User', schema: UserSchema }, == { name: User.name, schema: UserSchema }, // User.name == 'User' ( function name to string )
       { name: User.name, schema: UserSchema },
