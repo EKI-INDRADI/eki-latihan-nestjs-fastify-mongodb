@@ -28,8 +28,8 @@ export class ProdukService extends PageService {
   }
 
   update(id: number, updateProdukDto: UpdateProdukDto) {
-    updateProdukDto.id = id
-    return this.produkRepo.create(updateProdukDto)
+    // updateProdukDto.id = id
+    return this.produkRepo.updateOne({id : id} , updateProdukDto)
   }
 
   async remove(id: number) {
